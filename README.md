@@ -71,7 +71,7 @@ A full-stack application designed to simulate real-world technical interviews. I
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/siddhantsaxenaofficial/ai-interviewer.git
+git clone https://github.com/anitbiswas/ai-interviewer.git
 cd ai-interviewer
 
 ```
@@ -150,17 +150,10 @@ The application follows a microservices-inspired architecture to separate heavy 
 4. **Ollama**: The local LLM engine that powers the generation and evaluation logic.
 
 ---
+## 👨‍💻 Developer
 
-## 🤝 Contributing
+**Anit Biswas**
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+B.Tech in Computer Science & Engineering
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+GitHub: https://github.com/Anit-Biswas
